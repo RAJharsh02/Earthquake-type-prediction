@@ -46,7 +46,8 @@ The dataset for this project can be found at link given below.
   them to classify earthquake events accurately based on their unique characteristics.
 ```
 5. Model evaluation: Evaluated the performance of each model using appropriate metrics such as accuracy and precision. 
-       
+       ![IMG_20230729_174802](https://github.com/RAJharsh02/Earthquake-type-prediction/assets/118257196/5947898d-04a1-4b1b-8f67-b63254482f68)
+
 ## Libraries Needed
 
 - Pandas
